@@ -1,0 +1,4 @@
+For Logo
+<div class="small-12 large-12 logo large-centered columns">
+	    	<a href="<?php echo home_url(); ?>"><?php bloginfo('name'); ?></a>
+	    </div>
